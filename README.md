@@ -21,7 +21,7 @@ Welcome to my GitHub profile!
   My favorite project! Check it out to see what my Group has been building for a University Project
 - [Vorlesungsfortschritt](https://github.com/Siro098/Vorlesungsfortschritt)
   Also a very cool Project in Python to display the Progress of a lecture in % as a widget on your
-  Desktop using Rainmeter
+  Desktop using Rainmeter coded with my buddy @adiiii789
 
 ---
 

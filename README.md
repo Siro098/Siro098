@@ -13,6 +13,8 @@ Welcome to my GitHub profile!
 - **Java** (primary language)
 - Learning **Python** and **C++**
 - Exploring **Web Development** with a focus on **WebXR**
+- Also basics of Computer Aided Design(CAD)
+- 3D Printing
 
 ## 🚀 Featured Project
 - [Exception from Catan](https://github.com/Siro098/Exception-from-Catan)  

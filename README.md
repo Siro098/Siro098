@@ -12,7 +12,7 @@ Welcome to my GitHub profile!
 ## 💡 Skills & Technologies
 - **Java** (primary language)
 - Learning **Python** and **C++**
-- Exploring **Web Development** with a focus on **WebXR**
+- Exploring **Web Development** with a focus on **WebXR** Frameworks and Libraries
 - Also basics of Computer Aided Design(CAD)
 - 3D Printing
 

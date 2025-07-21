@@ -16,10 +16,8 @@ Welcome to my GitHub profile!
 
 ## 🚀 Featured Project
 - [Exception from Catan](https://github.com/Siro098/Exception-from-Catan)  
-  My favorite project! Check it out to see what I've been building.
-
-## 🔥 Fun Fact
-- I’m a **voluntary firefighter**, always ready to respond and help my community!
+  My favorite project! Check it out to see what my Group has been building for a University Project
+- [Vorlesungsfortschritt](https://github.com/Siro098/Vorlesungsfortschritt)
 
 ---
 

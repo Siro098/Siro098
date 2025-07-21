@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi there, I'm Siro098!
 
-<!--
-**Siro098/Siro098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 About Me
+- **Dual Student @ Trivit AG**  
+  Currently located in Ravensburg (88214), I’m a dual student at Trivit AG, combining hands-on experience with academic studies at **DHBW Ravensburg**.  
+- **Studies:** Informatik Informationstechnik
+
+## 💡 Skills & Technologies
+- **Java** (primary language)
+- Learning **Python** and **C++**
+- Exploring **Web Development** with a focus on **WebXR**
+
+## 🚀 Featured Project
+- [Exception from Catan](https://github.com/Siro098/Exception-from-Catan)  
+  My favorite project! Check it out to see what I've been building.
+
+## 🔥 Fun Fact
+- I’m a **voluntary firefighter**, always ready to respond and help my community!
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories and see what I’m working on.

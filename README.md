@@ -20,7 +20,8 @@ Welcome to my GitHub profile!
 - [Exception from Catan](https://github.com/Siro098/Exception-from-Catan)  
   My favorite project! Check it out to see what my Group has been building for a University Project
 - [Vorlesungsfortschritt](https://github.com/Siro098/Vorlesungsfortschritt)
-  Also a very cool Project in Python to display the Progress of a lecture in % as a widget on your Desktop using Rainmeter
+  Also a very cool Project in Python to display the Progress of a lecture in % as a widget on your
+  Desktop using Rainmeter
 
 ---
 

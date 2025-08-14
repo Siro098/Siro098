@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Siro098!
+# 👋 Hi there, I'm Simon!
 
 Welcome to my GitHub profile!
 
